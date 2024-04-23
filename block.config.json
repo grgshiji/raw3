@@ -1,0 +1,17 @@
+{
+  "name": "raw3",
+  "type": "containerized",
+  "blockId": "YsbI3W3rLakZ6M8gSEzue",
+  "source": {
+    "https": "https://github.com/grgshiji/raw3.git",
+    "ssh": "git@github.com:grgshiji/raw3.git",
+    "branch": "block_raw3"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
